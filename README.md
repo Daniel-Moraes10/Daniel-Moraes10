@@ -14,9 +14,9 @@
  
  <br>
  
-  <h1>
+  <h3>
   ### Para entrar em contato , segue as redes a Baixo.
-  <h1/>
+  <h3/>
  
 <div> 
  
